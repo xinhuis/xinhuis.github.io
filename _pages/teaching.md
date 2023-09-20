@@ -14,7 +14,7 @@ author_profile: true
 
     *Fall 2021, Spring 2022*
 
-- **The Economic of the Firm **  (EMBA at the University of Warsaw)
+- **The Economic of the Firm**  (EMBA at the University of Warsaw)
 
     *Summer 2019*
 

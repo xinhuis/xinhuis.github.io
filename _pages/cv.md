@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-## [PDF version](https://xinhuis2.github.io/files/CV-Xinhui Sun.pdf)
+## [PDF version]({% link files/CV-Xinhui.pdf %})
