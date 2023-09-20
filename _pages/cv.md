@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-## [CV]({% link files/CV-Xinhui.pdf %})
+## [PDF Version]({% link files/CV-Xinhui.pdf %})
