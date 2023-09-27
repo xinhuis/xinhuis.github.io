@@ -22,13 +22,12 @@ Individuals take action to avoid costly air pollution exposure, yet empirical ev
 ---
 **Disguised Pollution: Evidence from Wind Directions**
 
-<p>&nbsp;</p>
 
 **Social Networks and Charitable Givings: Evidence from Deadly Tornadoes**
 
-<p>&nbsp;</p>
 
 **Which robust method better? - Simulation Studies** 
+
 With EunYi Chung and Yoko Yamasaki
 
 
