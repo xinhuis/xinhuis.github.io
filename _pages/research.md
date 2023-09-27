@@ -26,9 +26,7 @@ Individuals take action to avoid costly air pollution exposure, yet empirical ev
 **Social Networks and Charitable Givings: Evidence from Deadly Tornadoes**
 
 
-**Which robust method better? - Simulation Studies** 
-
-With EunYi Chung and Yoko Yamasaki
+**Which robust method better? - Simulation Studies** (with EunYi Chung and Yoko Yamasaki)
 
 
 
