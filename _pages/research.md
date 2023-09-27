@@ -21,3 +21,10 @@ author_profile: true
 # Works in Progress
 ---
 **Disguised Pollution: Evidence from Wind Directions**
+<p>&nbsp;</p>
+**Social Networks and Charitable Givings: Evidence from Deadly Tornadoes**
+<p>&nbsp;</p>
+**Which robust method better? - Simulation Studies** (with [E. Chung]({% link https://sites.google.com/a/illinois.edu/eunyichung %}) and Y. Yamasaki)
+
+
+
