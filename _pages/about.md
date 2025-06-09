@@ -9,6 +9,6 @@ redirect_from:
 ---
 Hello, welcome to my website! 👋
 
-My name is **Xinhui Sun (孙欣慧)**. I am a PhD student in Economics at the University of Illinois at  Urbana-Champaign. My research focuses on environmental and behavioral economics. 
+My name is **Xinhui Sun (孙欣慧)**. I am a PhD student in Economics at the University of Illinois at  Urbana-Champaign. My research focuses on environmental and behavioral economics. I will be on the 2025-2026 market. 
 
 Contact: [xinhuis2@illinois.edu](mailto:xinhuis2@illinois.edu)
