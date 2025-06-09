@@ -11,7 +11,7 @@ author_profile: true
 
 # Working Papers
 ---
-[**Air Pollution and Economic Activity: Evidence from Foot Traffic Patterns in the U.S.**]({% link /files/Pollution_Avoidance.pdf %}) (Job Market Paper) <br> 
+[**Air Pollution and Economic Activity: Evidence from Foot Traffic Patterns in the U.S.**]({% link /files/Pollution_Avoidance.pdf %}) (Job Market Paper)<br> 
 I investigate how air pollution affects economic activity. Using over 600 million phone- location-based foot traffic data points from SafeGraph, I conduct a large-scale analysis to examine the causal effect of air pollution on activity patterns across the US. Using changes in local wind direction as an instrumental variable (IV) for air pollution, I find that a 1 $\mu g/m^3$ increase in PM2.5 concentration leads to a 0.50% decrease in economic activity, resulting in a nationwide reduction of 43 million trips annually. The reductions are widespread across different economic sectors, with recreational activities experiencing the largest decline. The effect is more pronounced in higher-income counties and areas with a larger share of chil- dren, suggesting greater awareness among wealthier or more vulnerable populations.
 
 [**Go with the Wind: Polluters’ Strategic Response to Wind Directions**]({% link /files/Disguised_Pollution.pdf %})<br>
