@@ -27,9 +27,9 @@ I investigate the strategic behavior of polluters in the US. Under the Clean Air
 
 **Social Networks and Household Protective Investments: Evidence from Wildfire Smoke** (joint with Sanjukta Mitra)
 
-**Natural Disasters and Occupational Mobility: Evidence from the 1927 Mississippi Flood**(joint with Xiaohan Wang)
+**Natural Disasters and Occupational Mobility: Evidence from the 1927 Mississippi Flood** (joint with Xiaohan Wang)
 
-**Which robust method better? - Simulation Studies** (with EunYi Chung and Yoko Yamasaki)
+**Which robust method better? - Simulation Studies** (joing with EunYi Chung and Yoko Yamasaki)
 
 
 
