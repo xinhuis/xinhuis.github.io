@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 # Working Papers
 ---
 [**Air Pollution and Economic Activity: Evidence from Foot Traffic Patterns**]({% link /files/Pollution_Avoidance.pdf %}) (Job Market Paper)<br> 

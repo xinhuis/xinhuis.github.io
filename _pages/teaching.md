@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### As Teaching Assistant
-
+---
 - **ECON 102: Microeconoimc Principles** (Undergraduate) 
 
     *Fall 2021, Spring 2022*
