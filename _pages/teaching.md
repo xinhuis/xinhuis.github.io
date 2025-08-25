@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-### As Teaching Assistant
+## As Teaching Assistant
 ---
 - **ECON 102: Microeconoimc Principles** (Undergraduate) 
 
