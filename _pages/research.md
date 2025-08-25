@@ -28,7 +28,7 @@ We investigate how a major natural disaster affect intergenerational occupationa
 
 **Deforestation and Air Pollution in the Indonesian Rainforest** (joint with Francesco Cenerini)
 
-{% **Which robust method better? - Simulation Studies** (joing with EunYi Chung and Yoko Yamasaki) %}
+**Which robust method better? - Simulation Studies** (joing with EunYi Chung and Yoko Yamasaki)
 
 
 
