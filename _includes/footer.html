@@ -18,8 +18,10 @@
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>(This block used to render via site.data.ui-text[site.locale] and social config.)</span></p>
 <p class="p1"><span class="s1">{% endcomment %}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;div class="site-footer"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;p&gt;© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}&lt;/p&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">{% comment %}</span></p>
+<p class="p1"><span class="s1">{% if site.data.ui-text[site.locale].sitemap_label %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;h2&gt;{{ site.data.ui-text[site.locale].sitemap_label }}&lt;/h2&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p1"><span class="s1">{% endcomment %}</span></p>
 </body>
 </html>
