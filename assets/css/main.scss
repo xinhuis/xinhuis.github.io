@@ -40,11 +40,35 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* --- completely remove footer (strip + border) but keep top nav --- */
-footer.site-footer {
-  display: none !important;   /* hides the entire footer element */
-  border-top: none !important;
-  background: none !important;
+/* kill the footer bar */
+.page__footer {
+  background: transparent !important;
+  border-top: 0 !important;
   padding: 0 !important;
-  margin: 0 !important;
+  margin-top: 0 !important;
 }
+.page__footer .footer {
+  display: none; /* hides the inner content just in case */
+}
+
+/* make avatar square (original shape) */
+.author__avatar img {
+  border-radius: 0 !important;   /* removes the circle */
+  box-shadow: none;              /* optional: no drop shadow */
+  width: 240px;                  /* bump size; tweak as you like */
+  height: auto;                  /* keep original aspect ratio */
+}
+
+/* let the avatar container allow the larger image */
+.author__avatar {
+  max-width: none !important;
+  width: auto;
+}
+
+/* If the sidebar constrains it, allow a bit more room on wide screens */
+@media (min-width: 992px) {
+  .sidebar {
+    max-width: 320px;            /* optional: widen sidebar slightly */
+  }
+}
+
