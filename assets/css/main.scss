@@ -65,6 +65,13 @@
   width: auto;
 }
 
+/* Remove border around the avatar */
+.author__avatar img {
+  border: none !important;       /* no border */
+  border-radius: 0 !important;   /* already removes roundness */
+  box-shadow: none !important;   /* no shadow */
+}
+
 /* If the sidebar constrains it, allow a bit more room on wide screens */
 @media (min-width: 992px) {
   .sidebar {
@@ -72,3 +79,6 @@
   }
 }
 
+.author__avatar {
+  margin-right: 5rem;   /* increase this number for a larger gap */
+}
