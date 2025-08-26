@@ -40,16 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* --- footer overrides --- */
-footer.site-footer,
-.site-footer {
-  background: transparent !important;
-  border-top: 0 !important;
-  box-shadow: none !important;
-  padding-top: 0 !important;
-  margin-top: 0 !important;
+/* --- completely remove footer (strip + border) but keep top nav --- */
+footer.site-footer {
+  display: none !important;   /* hides the entire footer element */
+  border-top: none !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
-
-/* Primer utility classes that paint the grey bar and border */
-.bg-gray-light { background-color: transparent !important; }
-.border-top    { border-top: 0 !important; }
