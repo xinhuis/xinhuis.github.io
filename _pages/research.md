@@ -21,14 +21,16 @@ I investigate the strategic behavior of polluters in the US. Under the Clean Air
 
 # Works in Progress
 ---
-**Natural Disasters and Occupational Mobility: Evidence from the 1927 Mississippi Flood** (joint with Xiaohan Wang)  
+**Natural Disasters and Occupational Mobility: Evidence from the 1927 Mississippi Flood** (with Xiaohan Wang)  
 We investigate how a major natural disaster affect intergenerational occupational mobility in the agricultural sector. Linking individuals across the 1920, 1930, and 1940 Censuses, we show that children residing in counties affected by the 1927 Mississippi Flood were significantly less likely to become farmers as adults. This effect is mainly driven by children from non-farming families, who were 9% less likely to work in agriculture and 10% more likely to transition into the service sector. In the longer run, these individuals achieved socioeconomic status scores about 3% higher than comparable children in non-flooded counties. Our findings suggest that natural disasters can accelerate structural change by shifting new labor market entrants out of agriculture and into higher-status occupations.
 
-**Social Networks and Household Protective Investments: Evidence from Wildfire Smoke** (joint with Sanjukta Mitra)
+**Climate Change and Agricultural Adaptation in Peru** (with Tatyana Deryugina)  
 
-**Deforestation and Air Pollution in the Indonesian Rainforest** (joint with Francesco Cenerini)
+**Social Networks and Household Protective Investments: Evidence from Wildfire Smoke** (with Sanjukta Mitra)
 
-**Which robust method better? - Simulation Studies** (joing with EunYi Chung and Yoko Yamasaki)
+**Deforestation and Air Pollution in the Indonesian Rainforest** (with Francesco Cenerini)
+
+**Which robust method better? - Simulation Studies** (with EunYi Chung and Yoko Yamasaki)
 
 
 
