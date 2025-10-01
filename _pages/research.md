@@ -18,7 +18,6 @@ I investigate the strategic behavior of polluters in the U.S. Under the Clean Ai
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
 # Works in Progress
 ---
 **Natural Disasters and Occupational Mobility: Evidence from the 1927 Mississippi Flood** (with Xiaohan Wang)  
