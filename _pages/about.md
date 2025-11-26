@@ -14,9 +14,9 @@ I am an applied microeconomist with research interests in environmental, public,
 
 **I am on the 2025–2026 academic job market.**
 
--[Job Market Paper]({% link files/JMP_Pollution_Activity.pdf %})  
--[Curriculum Vitae]({% link files/XinhuiSun_CV.pdf %}) 
--[Research Statement]({% link files/Sun_ResearchStatement.pdf %}) 
--[Teaching Statement]({% link files/Sun_TeachingStatement.pdf %})
+- [Job Market Paper]({% link files/JMP_Pollution_Activity.pdf %})  
+- [Curriculum Vitae]({% link files/XinhuiSun_CV.pdf %}) 
+- [Research Statement]({% link files/Sun_ResearchStatement.pdf %}) 
+- [Teaching Statement]({% link files/Sun_TeachingStatement.pdf %})
 
 Contact: [xinhuis2@illinois.edu](mailto:xinhuis2@illinois.edu)
