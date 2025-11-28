@@ -10,14 +10,18 @@ author_profile: false
 
 ## As Teaching Assistant
 ---
-- **ECON 102: Microeconomics Principles** (Undergraduate) 
+- **ECON 102: Microeconomics Principles**
 
     *Fall 2021, Spring 2022*
 
 - **The Economic of the Firm**  (EMBA at the University of Warsaw)
 
     *Summer 2019*
+    
+- **BADM 529: Macroeconomics** 
 
-- **ECON 528: Microeconomics for Business** (Undergraduate) 
+    *Summer 2019*
+
+- **ECON 528: Microeconomics for Business** 
 
     *Spring 2019, Summer 2019*
