@@ -17,7 +17,7 @@ I am an applied microeconomist with research interests in environmental, public,
 - [Research Statement]({% link files/Sun_ResearchStatement.pdf %})     
 - [Teaching Statement]({% link files/Sun_TeachingStatement.pdf %})      
 
-Contact: [xinhuis2@illinois.edu](mailto:xinhuis2@illinois.edu)
+Contact: [xinhuisun0229@gmail.com](mailto:xinhuisun0229@gmail.com)
 
 
 [^1]: pronounced “shin-hway soon”. 
